@@ -1,0 +1,11 @@
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.BusinessLogic.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.BusinessLogic.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.BusinessEntities.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.DataAccess.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.BusinessEntities.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\bin\Debug\appVentas.DataAccess.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\obj\Debug\appVentas.BusinessLogic.csprojAssemblyReference.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\obj\Debug\appVentas.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\obj\Debug\appVentas.BusinessLogic.csproj.CopyComplete
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\obj\Debug\appVentas.BusinessLogic.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessLogic\obj\Debug\appVentas.BusinessLogic.pdb

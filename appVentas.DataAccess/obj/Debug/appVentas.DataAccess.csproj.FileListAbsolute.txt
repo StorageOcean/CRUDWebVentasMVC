@@ -1,0 +1,9 @@
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\bin\Debug\appVentas.DataAccess.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\bin\Debug\appVentas.DataAccess.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\bin\Debug\appVentas.BusinessEntities.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\bin\Debug\appVentas.BusinessEntities.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\obj\Debug\appVentas.DataAccess.csprojAssemblyReference.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\obj\Debug\appVentas.DataAccess.csproj.CoreCompileInputs.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\obj\Debug\appVentas.DataAccess.csproj.CopyComplete
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\obj\Debug\appVentas.DataAccess.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.DataAccess\obj\Debug\appVentas.DataAccess.pdb

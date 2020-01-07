@@ -1,0 +1,6 @@
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\bin\Debug\appVentas.BusinessEntities.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\bin\Debug\appVentas.BusinessEntities.pdb
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\obj\Debug\appVentas.BusinessEntities.csprojAssemblyReference.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\obj\Debug\appVentas.BusinessEntities.csproj.CoreCompileInputs.cache
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\obj\Debug\appVentas.BusinessEntities.dll
+E:\CURSOS\BACKEND.NETCORE\CRUDWebVentasMVC\appVentas.BusinessEntities\obj\Debug\appVentas.BusinessEntities.pdb
